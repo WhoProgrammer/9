@@ -6,7 +6,7 @@
   main, body{
     margin: auto;
     max-width: 1400px;
-    min-width: 250px;
+    min-width: 1000px;
     width: 100%;
     overflow-x: hidden;
   }
